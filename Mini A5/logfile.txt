@@ -1,0 +1,140 @@
+commit 60021a6c415f17a14ea6058018e7f8c788a0a0d8
+Author: Huanzhi Wang <hwang189@teach-node-05.CS.McGill.CA>
+Date:   Fri Apr 14 17:19:04 2023 -0400
+
+    Add the new mini5phone.c with each method explaination
+
+commit b668b5bd928a10d6ac1c882302636e7ec8c6842f
+Merge: e3eae9c 9308b63
+Author: Huanzhi Wang <hwang189@teach-node-05.CS.McGill.CA>
+Date:   Fri Apr 14 16:52:08 2023 -0400
+
+     Try1 to fix merge conflict
+
+commit e3eae9c3db3caa4196b7bdb704addc7951fb2606
+Author: Huanzhi Wang <hwang189@teach-node-05.CS.McGill.CA>
+Date:   Fri Apr 14 16:26:48 2023 -0400
+
+    Fix the merging conflict
+
+commit 5bdda0b4e300010e784b7bb09b7e8680cfc9ee19
+Author: Huanzhi Wang <hwang189@teach-node-05.CS.McGill.CA>
+Date:   Fri Apr 14 15:53:15 2023 -0400
+
+    Modified section add explaination for each method in phone.c
+
+commit b1df3c13fb0c4149aac0e4efb7975604bf1c4e8b
+Author: Huanzhi Wang <hwang189@teach-node-05.CS.McGill.CA>
+Date:   Fri Apr 14 15:42:53 2023 -0400
+
+    Modified section add explaination for each method in phone.c
+
+commit 9308b63991b10866fac87838fd074d584b8c8c36
+Author: Yueqiao Zhang <yzhang554@teach-node-01.cs.mcgill.ca>
+Date:   Fri Apr 14 14:19:52 2023 -0400
+
+    add IPACS
+
+commit c0f0a291ac8be6b6867ec1df88fbf4ca93287289
+Author: Huanzhi Wang <hwang189@teach-node-05.CS.McGill.CA>
+Date:   Fri Apr 14 14:12:47 2023 -0400
+
+    Modified section for Delete and clear in phone.c and add Programmer and Created date
+
+commit 56d9bca35793474ccd17b8fc23ed27eeaccb1e35
+Author: Huanzhi Wang <hwang189@teach-node-05.CS.McGill.CA>
+Date:   Fri Apr 14 14:08:52 2023 -0400
+
+    Modified section for clear in main- add Programmer and Created date
+
+commit 97c583c222e0bbad31bafb7309a30b5c24086e78
+Author: Huanzhi Wang <hwang189@teach-node-05.CS.McGill.CA>
+Date:   Fri Apr 14 14:05:17 2023 -0400
+
+    Modified section for delete in main
+
+commit 40ba17a70c6e09a9777a2e5208145e1321bad8cf
+Author: Huanzhi Wang <hwang189@teach-node-05.CS.McGill.CA>
+Date:   Fri Apr 14 13:37:33 2023 -0400
+
+    Modified clearRecord
+
+commit 34a949b68a9d3b3e49e880e9094ced061e2b5813
+Author: Huanzhi Wang <hwang189@teach-node-05.CS.McGill.CA>
+Date:   Fri Apr 14 13:25:58 2023 -0400
+
+    Modified the deleteRecord
+
+commit bd45e1cc28d3c13373737c89aed7f625b3bdde2a
+Merge: beba424 14a1bfc
+Author: Xibei Jia <xjia26@teach-node-01.cs.mcgill.ca>
+Date:   Fri Apr 14 00:55:55 2023 -0400
+
+    Resolved merge conflicts
+
+commit beba424973f2a3758f16b0fdbeefdf8901f848aa
+Author: Xibei Jia <xjia26@teach-node-01.cs.mcgill.ca>
+Date:   Thu Apr 13 23:38:18 2023 -0400
+
+    Created phonebook.csv
+
+commit 52f4ebb93d4bd603d36fa4057ca08fe2a4176d32
+Author: Xibei Jia <xjia26@teach-node-01.cs.mcgill.ca>
+Date:   Thu Apr 13 22:44:21 2023 -0400
+
+    Modified addRecord findRecord and listRecord.
+
+commit 14a1bfce64b88c8967c68d86269fd9744edb9a90
+Author: Yueqiao Zhang <yzhang554@teach-node-01.cs.mcgill.ca>
+Date:   Thu Apr 13 22:27:13 2023 -0400
+
+    changed saveCSV function to implement linkedlist
+
+commit de6d298db9bd5cec8366d675ab073a259b89b789
+Author: Xibei Jia <xjia26@teach-node-01.cs.mcgill.ca>
+Date:   Thu Apr 13 20:59:27 2023 -0400
+
+    Modified the header file mini5phone.h
+
+commit 46c1689561083a228bf97ffa947471f6cf0a3773
+Author: Yueqiao Zhang <yzhang554@teach-node-01.cs.mcgill.ca>
+Date:   Thu Apr 13 17:16:48 2023 -0400
+
+    changed loadCSV function to implement linkedlist, error: cannot complie other functions yet
+
+commit 91422f67f56f62230f9297432a2fab840d23d17a
+Merge: 0a5cc77 7e5f3ca
+Author: Yueqiao Zhang <yzhang554@teach-node-01.cs.mcgill.ca>
+Date:   Thu Apr 13 17:08:20 2023 -0400
+
+    Merge remote-tracking branch 'refs/remotes/origin/main'
+
+commit 7e5f3ca5ddd3d331803ef0be70d8110500151043
+Author: Xibei Jia <xjia26@teach-node-06.CS.McGill.CA>
+Date:   Thu Apr 13 08:09:49 2023 -0400
+
+    Created a Makefile. To compile our project using Makefile, we need to type make on the terminal, followed by ./cs206 to execute it.
+
+commit 0a5cc77272cef479ea249adca77f4738fdaf509c
+Author: Yueqiao Zhang <yzhang554@teach-node-08.cs.mcgill.ca>
+Date:   Tue Apr 11 16:30:34 2023 -0400
+
+    change struct to node
+
+commit 83eda70b7c00e15cbc1d072d5bb090c0b50f56a0
+Author: Yueqiao Zhang <yzhang554@teach-node-07.cs.mcgill.ca>
+Date:   Mon Apr 10 18:36:30 2023 -0400
+
+    Added mini5phone.h header file, changed include statement in mini5main.c, added empty functions delete and clear in mini5phone.c
+
+commit 0485b7d50bccf83a2f2503d59fcc20b9f5cf55e5
+Author: Yueqiao Zhang <yzhang554@teach-node-07.cs.mcgill.ca>
+Date:   Mon Apr 10 18:14:07 2023 -0400
+
+    Change menu option in mini5main.c
+
+commit 527033c5f225b56686cb61e493313c6671712753
+Author: Yueqiao Zhang <yzhang554@teach-node-07.cs.mcgill.ca>
+Date:   Mon Apr 10 17:55:51 2023 -0400
+
+    Add starter code
