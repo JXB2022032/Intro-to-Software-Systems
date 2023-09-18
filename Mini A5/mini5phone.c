@@ -1,4 +1,4 @@
-//Programmers:	Yueqiao Zhang,Xibei Jia ,Huanzhi Wang
+
 //Created:2023/04/13
 #include<stdio.h>
 #include<stdlib.h>
